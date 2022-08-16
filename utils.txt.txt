@@ -1,1 +1,2 @@
-utility function for version 3
+utility function for version 2
+version 3 is boring version than 2
